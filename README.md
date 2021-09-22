@@ -4,4 +4,4 @@ This Project was created as part of 'The Odin Project' cirriculum, found @ https
 Sources : \
 Recipes came from https://www.allrecipes.com \
 Images came from https://www.images.google.com \
-Project details @ https://www.theodinproject.com \
+Project details @ https://www.theodinproject.com 
