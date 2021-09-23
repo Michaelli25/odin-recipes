@@ -1,0 +1,22 @@
+* {
+    background-color: rgb(166, 225, 233);
+}
+
+#title {
+    text-align : center;
+    color : rgb(238, 45, 45);
+    font-family: "Verdana", "Arial", sans-serif;
+}
+
+.recipelinks {
+    font-size : 30px;
+    font-family: "Times New Roman", "Georgia", sans-serif;
+    text-align: center;
+}
+
+#indeximg {
+    width : 750px;
+    height : auto;
+    display: block;
+    margin: 0 auto;
+}
