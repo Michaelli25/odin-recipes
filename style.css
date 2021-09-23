@@ -2,7 +2,7 @@
     background-color: rgb(166, 225, 233);
 }
 
-#title {
+#title, .titleName {
     text-align : center;
     color : rgb(238, 45, 45);
     font-family: "Verdana", "Arial", sans-serif;
@@ -14,9 +14,18 @@
     text-align: center;
 }
 
-#indeximg {
+#indeximg, .foodPic {
     width : 750px;
     height : auto;
     display: block;
     margin: 0 auto;
+}
+
+.instructions, .congrats {
+    text-align : center;
+}
+
+.congrats {
+    color : rgb(51, 90, 39);
+    font-family :'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
